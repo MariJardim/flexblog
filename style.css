@@ -98,6 +98,12 @@ img {
   align-items: flex-start;
   gap: 10px;
   flex: 2;
+
+}
+@media (max-width: 800px){
+  .sobre-info{
+    flex-wrap: wrap;
+  }
 }
 
 .sobre-texto p {
